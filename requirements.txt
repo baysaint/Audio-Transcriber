@@ -1,0 +1,6 @@
+vosk
+pydub
+audioop-lts; python_version>='3.13'
+# Note: pydub requires FFmpeg to be installed on your system
+# and accessible in your PATH or its location specified in the script.
+# Download FFmpeg from: https://ffmpeg.org/download.html
