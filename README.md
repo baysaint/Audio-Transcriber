@@ -90,6 +90,7 @@ Before running the application, ensure you have the following installed:
 
 ## Potential Improvements
 
+* Add proper punctuation to the transcribed text. Text can be summarized comprehensively by the help of any AI tool.
 * Add support for selecting specific languages if multiple models are present.
 * Implement pausing/stopping the transcription process.
 * Display word timings if the model supports it (`recognizer.SetWords(True)` is enabled).
